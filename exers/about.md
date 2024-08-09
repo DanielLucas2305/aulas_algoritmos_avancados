@@ -23,35 +23,35 @@ esquerda: 3m x 0c
 
 4: volta um canibal  
 direita: 2c  
-esquerda: 3m x 1c
+esquerda: 3m x 1c  
 
-5: passa 2 missionarios
-direita: 2c x 2m
-esquerda: 1c X 1m
+5: passa 2 missionarios  
+direita: 2c x 2m  
+esquerda: 1c X 1m  
 
-6: volta um casal
-direita: 1c x 1m
-esquerda: 2c x 2m
+6: volta um casal  
+direita: 1c x 1m  
+esquerda: 2c x 2m  
 
-7: passa 2 missionarios
-direita: 1c x 3m
-esquerda: 2c x 0m
+7: passa 2 missionarios  
+direita: 1c x 3m  
+esquerda: 2c x 0m  
 
-8: volta um canibal
-direita: 0c x 3m
-esquerda: 3c x 0m
+8: volta um canibal  
+direita: 0c x 3m  
+esquerda: 3c x 0m  
 
-9: passa 2 canibais;
-direita: 2c x 3m
-esquerda: 1c x 0m
+9: passa 2 canibais;  
+direita: 2c x 3m  
+esquerda: 1c x 0m  
 
-10: volta 1 canibal
-direita: 1c x 3m
-esquerda: 2c x 0m
+10: volta 1 canibal  
+direita: 1c x 3m  
+esquerda: 2c x 0m  
 
-11: leva 2 canibais
-direita: 3c x 3m
-esquerda: 0c x 0m
+11: leva 2 canibais  
+direita: 3c x 3m  
+esquerda: 0c x 0m  
 
 
 ## Exercicio 2  
