@@ -1,6 +1,6 @@
 # Exercicios aula Algoritmos Avançados
 
-## Exercicio 1  
+- ## Exercicio 1  
 
 Canibais e missionários: Três missionários e três canibais vão atravessar de uma margem 
 para a outra de um rio, usando um barco onde só cabem duas pessoas de cada vez. Os 
