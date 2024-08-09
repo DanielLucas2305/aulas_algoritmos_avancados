@@ -1,0 +1,33 @@
+Problema de busca
+
+Grafo
+Representação gráfica das relações entre elementos de dadaos
+
+G = {V,A}
+
+V é um conjunto de vértices
+A é um conjunto de arestas
+
+V = {1, 2, 3}
+A = {(1,2),(1,3),(2,3)
+
+problema das sete pontes de Königsberg
+
+Caminho é uma sequencia de verices conectados por vertices
+
+Caminho euleriano: usa cada aresta uma vez, sem repetir
+Caminho hamiltoniano: usa um vértice uma vez, podendo repetir a aresta
+
+Direçao dos grafos
+Grafo dirigidos:a ordem importa
+nao dirigidos: vias de mão duplas
+
+
+Arvore de busca
+
+Solução ótima é a melhor soluçao de todas feitas
+
+corretude, eficiência e desempenho
+
+
+
