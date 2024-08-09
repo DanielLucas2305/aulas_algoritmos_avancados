@@ -9,20 +9,20 @@ em nenhuma das margens do rio. Como poderão passar todos para a outra margem,
 usando apenas aquele barco? Escreva um algoritmo que demonstre os passos 
 necessários para solucionar este problema
 
-passo 1: dois canibais passam
-direita: 2c
-esquerda: 3m x 1c
+passo 1: dois canibais passam  
+direita: 2c  
+esquerda: 3m x 1c  
 
-passo 2: volta um canibal
-direita: 1c
-esquerda: 3m x 2c
+passo 2: volta um canibal  
+direita: 1c  
+esquerda: 3m x 2c  
 
-3; passa 2 canibais
-direita: 3c
-esquerda: 3m x 0c
+3: passa 2 canibais  
+direita: 3c  
+esquerda: 3m x 0c  
 
-4: volta um canibal
-direita: 2c
+4: volta um canibal  
+direita: 2c  
 esquerda: 3m x 1c
 
 5: passa 2 missionarios
